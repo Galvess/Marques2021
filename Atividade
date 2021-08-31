@@ -1,0 +1,23 @@
+Responda atividade
+
+Qual o primeiro comando de devo executar no terminal para identificar o nome e o e-mail?
+
+git config --global user.name  “nome”
+git config --global user.email “email”
+
+Qual o comando para criar a estrutura?
+git init
+
+Ao utilizar o comando commit – u “fulano” o que acontece?
+R: Salva as alterações feitas no arquivo e estarão aptas para 
+serem enviadas ao repositório remoto
+
+Se eu utilizar o comando git log o que acontece?
+R: Mostra o histórico das alterações feitas
+
+Escreva quais comando se utiliza para clonar e enviar os arquivos para o site do github?
+git clone <URL>
+git push -u origin <nome da braunch>
+
+O que o git remote add origin https://github.com/fulano/teste.git faz
+R: Adiciona a URL do repositório remoto no git

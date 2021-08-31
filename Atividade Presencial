@@ -1,0 +1,18 @@
+Atividade presencial
+Siga as instruções:
+Baixe o arquivo do github
+Responda as perguntas abaixo 
+Depois salve o arquivo com seu nome 
+No comentário do commit escreva seu nome e e-mail
+Crie um branch com seu nome 
+E envie para o github do professor.
+Após ter feito tire um print da tela e mande para o ava.
+
+Responda 
+ati
+Qual o primeiro comando de devo executar no terminal para identificar o nome e o e-mail?
+Qual o comando para criar a estrutura?
+Ao utilizar o comando commit – u “fulano” o que acontece?
+Se eu utilizar o comando git log o que acontece?
+Escreva quais comando se utiliza para clonar e enviar os arquivos para o site do github?
+O que o git remote add origin https://github.com/fulano/teste.git faz
